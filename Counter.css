@@ -1,0 +1,27 @@
+/* Add this CSS to your stylesheet or in a CSS module */
+button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 18px;
+  margin: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  user-select: none;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+#root {
+  display: inline-block;
+  min-width: 40px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 10px;
+  user-select: none;
+}
