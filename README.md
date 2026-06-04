@@ -1,4 +1,4 @@
-ansi-html [![NPM version](https://badge.fury.io/js/ansi-html.svg)](http://badge.fury.io/js/ansi-html) [![Build Status](https://travis-ci.org/Tjatse/ansi-html.svg?branch=master)](https://travis-ci.org/Tjatse/ansi-html)
+﻿ansi-html [![NPM version](https://badge.fury.io/js/ansi-html.svg)](http://badge.fury.io/js/ansi-html) [![Build Status](https://travis-ci.org/Tjatse/ansi-html.svg?branch=master)](https://travis-ci.org/Tjatse/ansi-html)
 =========
 An elegant lib that converts the chalked (ANSI) text to HTML.
 
@@ -66,3 +66,6 @@ $ npm test
 
 ## Developer Profile
 This repository is created and maintained by **[Eslavath Narasimha Naik](https://github.com/NAIKAA9)**.
+- **GitHub**: [NAIKAA9](https://github.com/NAIKAA9)
+- **LinkedIn**: [Narasimha Naik](https://www.linkedin.com/in/narasimhanaik591)
+
