@@ -60,3 +60,9 @@ var closeTags = ansiHTML.tags.close;
 $ npm install -l
 $ npm test
 ```
+
+
+---
+
+## Developer Profile
+This repository is created and maintained by **[Eslavath Narasimha Naik](https://github.com/NAIKAA9)**.
